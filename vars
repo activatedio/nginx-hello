@@ -1,0 +1,6 @@
+#!/bin/bash
+
+repository=activatedio
+name=nginx-hello
+vesion=1.0.0
+
